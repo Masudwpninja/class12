@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-box{
+    width: 90%;
+    margin: auto;
+    border: 3px solid #080913;
+}
+.mrm h2{
+    background: #34495e;
+    color: white;
+    border-top: 5px solid #3498db;
+    margin: 50px 0;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 27px;
+}
+
+.mrm h2 sub{
+    color:#3498db;
+}
+.mrmb p {
+    background: #7ab99c;
+    width: 34%;
+    margin: 20px auto;
+    padding: 37px;
+    font-size: 22px;
+    text-align: center;
+    border: 5px solid #2c3e50;
+    box-shadow: 2px 2px 7px #44442e;
+}
+
+.t-man {
+    background: #e67e22;
+    width: 45%;
+    margin: 31px 29px 36px;
+    padding: 17px 20px 32px 20px;
+    border-left: 5px solid #3498db;
+    border-radius: 0 40px 40px 0;
+    box-shadow: 3px 3px 6px #3498db;
+}
+.m-brain {
+    background: #1abc9c;
+    width: 45%;
+    margin-left: 36%;
+    padding: 17px 20px 32px 20px;
+    border-right: 5px solid #8e44ad;
+    border-radius: 40px 0px 0px 40px;
+    box-shadow: 3px 3px 8px #8e44ad;
+    text-align: right;
+}
+.s-icon {
+    background: #e74c3c;
+    width: 22%;
+    margin: 35px 0 0 279px;
+    padding: 2%;
+    padding-top: 37px;
+    border-radius: 50% 50% 0 0;
+    text-align: center;
+    border-top: 5px solid #f1c40f;
+    box-shadow: 3px 2px 10px #ffcc00;
+}
+
+.lmrm h2{
+    background: #34495e;
+    color: white;
+    border-top: 5px solid #3498db;
+    margin-top: 40px;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+.dot{
+    
+}
